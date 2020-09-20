@@ -1,1 +1,6 @@
 theme: jekyll-theme-slate
+title: Brian's Stuff
+description: This is my portfolio, proof that i've actually done stuff. You can look at my university and personal projects.
+github:
+  zip_url: http://example.com/download.zip
+  another_url: another value
