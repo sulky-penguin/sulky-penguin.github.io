@@ -4,3 +4,4 @@ description: This is my portfolio, proof that i've actually done stuff. You can 
 github:
   zip_url: http://example.com/download.zip
   another_url: another value
+show_downloads: true
